@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 159"
+  short_description: "Post-digital Bitmap Typography"
+  default_prompt: "Use $xxd-panel-159 to transform my photograph following the complete canonical source brief."
