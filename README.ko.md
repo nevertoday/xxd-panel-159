@@ -10,7 +10,23 @@
 
 ## 샘플 작품
 
-연산 자원을 아끼기 위해 이번 배치에서는 이미지 모델을 호출하거나 예시 이미지를 생성하지 않았습니다. 원문·링크·실행 스크립트는 확인했지만 실제 생성 품질은 아직 검증하지 않았습니다. 아래 예시는 생성 작품이 아닌 호출 명령입니다.
+서로 다른 원본 사진으로 Panel 159에서 각각 한 번 생성한 8개 샘플입니다. 짧은 영문 문구를 사용했으며 가로 1536×864 좌우 균등, 세로 1152×1536 상하 균등으로 정리하고 메타데이터 정리를 검증했습니다. 실제 모델 결과이며 모든 스타일 조건을 통과했다는 뜻은 아닙니다.
+
+관찰된 편차: 일부 피사체나 장면이 너무 크고, 일부 제목은 이미지와 결합되지 않고 분리되어 있습니다. 모델이 추가한 숫자는 사실 정보가 아닙니다.
+
+16:9 · 50:50
+
+| sample-05 | sample-06 |
+|---|---|
+| ![sample-05](assets/examples/sample-05.png) | ![sample-06](assets/examples/sample-06.png) |
+| ![sample-07](assets/examples/sample-07.png) | ![sample-08](assets/examples/sample-08.png) |
+
+3:4 · 50:50
+
+| sample-09 | sample-10 |
+|---|---|
+| ![sample-09](assets/examples/sample-09.png) | ![sample-10](assets/examples/sample-10.png) |
+| ![sample-11](assets/examples/sample-11.png) | ![sample-12](assets/examples/sample-12.png) |
 
 ## 잘 맞는 상황과 해결하는 문제
 

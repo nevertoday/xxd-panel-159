@@ -10,7 +10,23 @@
 
 ## サンプル展示
 
-計算資源を節約するため、このバッチでは画像モデルを呼び出さず、作例画像も生成していません。原文・リンク・実行スクリプトを検証済みですが、実際の生成品質は未検証です。以下は呼び出し例であり、生成作品ではありません。
+異なる元写真から Panel 159 で各1回生成した8点です。短い英文を使用し、横1536×864・左右均等、縦1152×1536・上下均等に整え、メタデータ清掃を検証しました。実際のモデル出力を残しており、全要件への適合を保証するものではありません。
+
+確認した偏差：被写体や残された場面が大きすぎる例、文字と図像の絡みが弱い例があります。モデルが追加した数字は事実情報ではありません。
+
+16:9 · 50:50
+
+| sample-05 | sample-06 |
+|---|---|
+| ![sample-05](assets/examples/sample-05.png) | ![sample-06](assets/examples/sample-06.png) |
+| ![sample-07](assets/examples/sample-07.png) | ![sample-08](assets/examples/sample-08.png) |
+
+3:4 · 50:50
+
+| sample-09 | sample-10 |
+|---|---|
+| ![sample-09](assets/examples/sample-09.png) | ![sample-10](assets/examples/sample-10.png) |
+| ![sample-11](assets/examples/sample-11.png) | ![sample-12](assets/examples/sample-12.png) |
 
 ## 向いている場面と解決する課題
 

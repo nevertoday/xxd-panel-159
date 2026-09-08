@@ -10,7 +10,23 @@
 
 ## 样张展示
 
-本批按节约算力要求完成封装，未调用图像模型、未生成示例图片。已检查原稿、链接和运行脚本；真实生图效果尚未验收。以下为调用示例，不是已生成的作品。
+以下 8 张样张由 Panel 159 基于不同源照片独立单轮生成，使用简短英文文案。已归整为横版 1536×864、左右各 50%，及竖版 1152×1536、上下各 50%，并完成元数据清理。保留单次模型结果供观察，不代表全部通过风格验收。
+
+已观察到的偏差：部分主体或保留场景偏大；部分标题仍像独立标题而非与图像咬合。个别数字为模型添加，不是事实信息。
+
+16:9 · 50:50
+
+| sample-05 | sample-06 |
+|---|---|
+| ![sample-05](assets/examples/sample-05.png) | ![sample-06](assets/examples/sample-06.png) |
+| ![sample-07](assets/examples/sample-07.png) | ![sample-08](assets/examples/sample-08.png) |
+
+3:4 · 50:50
+
+| sample-09 | sample-10 |
+|---|---|
+| ![sample-09](assets/examples/sample-09.png) | ![sample-10](assets/examples/sample-10.png) |
+| ![sample-11](assets/examples/sample-11.png) | ![sample-12](assets/examples/sample-12.png) |
 
 ## 适用场景与解决的问题
 
