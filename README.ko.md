@@ -10,23 +10,27 @@
 
 ## 샘플 작품
 
-서로 다른 원본 사진으로 Panel 159에서 각각 한 번 생성한 8개 샘플입니다. 짧은 영문 문구를 사용했으며 가로 1536×864 좌우 균등, 세로 1152×1536 상하 균등으로 정리하고 메타데이터 정리를 검증했습니다. 실제 모델 결과이며 모든 스타일 조건을 통과했다는 뜻은 아닙니다.
+2026-09-09 재생성: 서로 다른 원본 이미지로 만든 AI 샘플 8개이며 가로 4개, 세로 4개입니다. 이번 배치는 159와 161–171을 포함하며 원본 파일 96개의 SHA-256은 중복되지 않습니다. 160은 변경하지 않았습니다. 각 이미지는 해당 Panel의 기본 스크립트와 전체 원문으로 생성했으며 짧은 영문 문구를 사용합니다.
 
-관찰된 편차: 일부 피사체나 장면이 너무 크고, 일부 제목은 이미지와 결합되지 않고 분리되어 있습니다. 모델이 추가한 숫자는 사실 정보가 아닙니다.
+원본 출력 PNG를 유지했으며 크기 조정, 자르기, 분할선 보정을 하지 않았습니다. 가로는 1672×941(약 16:9), 세로는 1086×1448(3:4)입니다. 가로 분할선은 중앙 부근이며 세로 원본 영역은 약 45.2–50.0%입니다. 모두 정확한 50:50 분할은 아닙니다.
 
-16:9 · 50:50
+모든 이미지를 전체 크기와 축소판으로 확인하고 메타데이터 정리를 검증했습니다. 실제 생성 결과이며 **모든 스타일 조건을 통과한 예시는 아닙니다**. 일부는 피사체·장면·문자가 크거나 세부가 많아 여백과 원문에 따른 표현이 충분하지 않습니다.
 
-| sample-05 | sample-06 |
+[생성 및 SHA-256 검증 기록](assets/examples/unique-20260909-audit.json)
+
+### 가로 4개 · 원본 왼쪽, 디자인 오른쪽
+
+| 05 | 06 |
 |---|---|
-| ![sample-05](assets/examples/sample-05.png) | ![sample-06](assets/examples/sample-06.png) |
-| ![sample-07](assets/examples/sample-07.png) | ![sample-08](assets/examples/sample-08.png) |
+| ![sample-05](assets/examples/sample-05-unique.png) | ![sample-06](assets/examples/sample-06-unique.png) |
+| ![sample-07](assets/examples/sample-07-unique.png) | ![sample-08](assets/examples/sample-08-unique.png) |
 
-3:4 · 50:50
+### 세로 4개 · 원본 위, 디자인 아래
 
-| sample-09 | sample-10 |
+| 09 | 10 |
 |---|---|
-| ![sample-09](assets/examples/sample-09.png) | ![sample-10](assets/examples/sample-10.png) |
-| ![sample-11](assets/examples/sample-11.png) | ![sample-12](assets/examples/sample-12.png) |
+| ![sample-09](assets/examples/sample-09-unique.png) | ![sample-10](assets/examples/sample-10-unique.png) |
+| ![sample-11](assets/examples/sample-11-unique.png) | ![sample-12](assets/examples/sample-12-unique.png) |
 
 ## 잘 맞는 상황과 해결하는 문제
 
