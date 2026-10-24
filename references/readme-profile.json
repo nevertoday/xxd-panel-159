@@ -1,0 +1,114 @@
+{
+  "skill_description": "XXD Panel 159｜Post-digital Bitmap Typography: rebuilds the most recognisable subject of a photo as a post-digital experimental typography poster — the image is made of characters, symbols, dot-matrix, halftone dots and low-resolution raster cells, dense in the shadows and sparse in the highlights, with a bitmap or pixel experimental title that interlocks and overlaps with the image. Black, white and grey plus 1–3 accent colours from the photo, a light scanned or compressed lo-fi texture without heavy glitch, and a small subject in very large whitespace. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-159 or asks for ASCII art, typographic halftone, dithered bitmap or experimental type poster from a photo.",
+  "short_description": "字符网点实验志：用字符、点阵和网点把照片主体重新拼出来，配一个咬合图像的位图标题",
+  "zh-CN": {
+    "name": "字符网点实验志",
+    "tagline": "用字符、点阵和网点重新拼出照片主角，再配一个和图像咬在一起的位图标题。",
+    "look": "照片里最好认的主体由字符、符号、点阵、网点和低分辨率栅格小格组成：暗处字符密，亮处稀疏留白，远看是一个干净有力的形象，近看才发现全是字和点。画面有一个醒目的位图或点阵实验标题，和图像互相穿插、错位、重叠，旁边只配极少的编号或注记。颜色以黑白灰为底，从照片里挑 1–3 个颜色点在标题或网点层上，允许一点扫描和压缩的数字质感。主体小，留白多。",
+    "traits": [
+      "字符成像",
+      "网点抖动",
+      "位图实验标题",
+      "黑白灰加点睛色",
+      "小主体大留白"
+    ],
+    "good": [
+      "剪影鲜明、明暗对比强的主体：侧脸、举手的人、一只猫、一辆摩托",
+      "形状简洁的物件或建筑：一把椅子、一座塔、一部老电话",
+      "想做成实验排版海报、唱片封面或活动视觉的照片"
+    ],
+    "poor": [
+      "明暗平淡、灰蒙蒙的照片，字符和网点拼不出清楚的形象",
+      "需要保留真实颜色和质感的照片，最后只剩黑白灰和一两个点睛色",
+      "想要写实插画、平滑矢量、普通标题海报或夸张 glitch 特效的需求"
+    ]
+  },
+  "en": {
+    "name": "Post-digital Bitmap Typography",
+    "tagline": "Rebuilds the star of your photo from characters, dot matrix and halftone, with a bitmap title woven into it.",
+    "look": "The most recognisable subject is assembled from characters, symbols, dot matrix, halftone dots and low-resolution raster cells: dense type in the shadows, sparse marks and white space in the highlights, so from a distance you see one clean, strong shape and up close you find it is all letters and dots. A bold bitmap or dot-matrix experimental title threads through, shifts against and overlaps the image, with only a few small numbers or notes beside it. The base is black, white and grey, with one to three colours from the photo on the title or a dot layer, and a light scanned, compressed digital texture. The subject is small and the white space is large.",
+    "traits": [
+      "Image from characters",
+      "Dithered halftone",
+      "Bitmap title",
+      "Mono plus accents",
+      "Small subject, wide space"
+    ],
+    "good": [
+      "Subjects with a bold silhouette and strong contrast: a profile, a person with a raised hand, a cat, a motorbike",
+      "Simply shaped objects or buildings: a chair, a tower, an old telephone",
+      "Photos you want as an experimental type poster, a record cover or event artwork"
+    ],
+    "poor": [
+      "Flat, grey, low-contrast photos, where characters and dots cannot form a clear image",
+      "Photos that must keep real colour and texture, since only black, white, grey and one or two accents remain",
+      "Requests for realistic illustration, smooth vector art, an ordinary headline poster or heavy glitch effects"
+    ]
+  },
+  "ja": {
+    "name": "文字網点の実験ポスター",
+    "tagline": "文字、ドット、網点で写真の主役を組み直し、絵と噛み合うビットマップのタイトルを添えます。",
+    "look": "写真でいちばん目立つ主役を、文字、記号、ドット、網点、低解像度のラスターの升目で組み上げます。暗い部分は文字が密に、明るい部分はまばらで余白が多く、遠目にはすっきり力強い形、近づくとすべて文字と点だとわかります。目を引くビットマップやドットマトリクスの実験的なタイトルが絵と交差し、ずれ、重なり、脇には小さな番号や注記がわずかに入るだけです。色は黒白グレーを基調に、写真から一〜三色をタイトルや網点の層に差し、スキャンや圧縮のような軽いデジタルの質感を残します。主役は小さく、余白は大きくとります。",
+    "traits": [
+      "文字でできた像",
+      "ディザ網点",
+      "ビットマップ題字",
+      "モノクロと差し色",
+      "小さな主役と余白"
+    ],
+    "good": [
+      "シルエットがはっきりし明暗差の強い主役：横顔、手を挙げた人、猫、バイク",
+      "形の単純な物や建物：椅子、塔、古い電話機",
+      "実験的なタイポグラフィのポスター、レコードジャケット、イベントビジュアルにしたい写真"
+    ],
+    "poor": [
+      "明暗が平板で灰色っぽい写真（文字や網点ではっきりした像を作れません）",
+      "本来の色や質感を残したい写真（黒白グレーと一、二色の差し色だけになります）",
+      "写実イラスト、なめらかなベクター、普通の見出しポスター、派手なグリッチを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "문자 망점 실험 포스터",
+    "tagline": "문자, 도트, 망점으로 사진 속 주인공을 다시 쌓고, 그림과 맞물린 비트맵 제목을 붙입니다.",
+    "look": "사진에서 가장 알아보기 쉬운 주인공을 문자, 기호, 도트, 망점, 저해상도 래스터 칸으로 짜 맞춥니다. 어두운 곳은 문자가 빽빽하고 밝은 곳은 성기게 비어 있어, 멀리서는 깔끔하고 힘 있는 형태로, 가까이서는 모두 글자와 점으로 보입니다. 눈에 띄는 비트맵 또는 도트 매트릭스 실험 제목이 그림과 엇갈리고 어긋나고 겹치며, 옆에는 작은 번호나 주석만 조금 붙습니다. 색은 흑백과 회색이 바탕이고, 사진에서 한두 가지, 많게는 세 가지 색을 골라 제목이나 망점 층에 포인트로 쓰며, 스캔이나 압축 같은 가벼운 디지털 질감을 남깁니다. 주인공은 작고 여백은 넓습니다.",
+    "traits": [
+      "문자로 만든 이미지",
+      "디더링 망점",
+      "비트맵 실험 제목",
+      "흑백과 포인트 색",
+      "작은 주인공과 여백"
+    ],
+    "good": [
+      "실루엣이 뚜렷하고 명암 대비가 강한 주인공: 옆얼굴, 손을 든 사람, 고양이, 오토바이",
+      "형태가 단순한 물건이나 건물: 의자, 탑, 옛날 전화기",
+      "실험 타이포그래피 포스터, 음반 커버, 행사 비주얼로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "명암이 밋밋하고 뿌연 사진(문자와 망점으로 뚜렷한 형태를 만들기 어렵습니다)",
+      "실제 색과 질감을 살려야 하는 사진(흑백, 회색과 한두 가지 포인트 색만 남습니다)",
+      "사실적 일러스트, 매끈한 벡터, 평범한 제목 포스터, 과한 글리치를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "ملصق تجريبي بالحروف والنقاط",
+    "tagline": "يعيد بناء بطل صورتك من حروف ومصفوفة نقطية وتنقيط نصفي، مع عنوان نقطي متشابك معه.",
+    "look": "يُركَّب أوضح عنصر في الصورة من حروف ورموز ومصفوفة نقطية ونقاط طباعة نصفية وخلايا شبكية منخفضة الدقة: الحروف كثيفة في الظلال ومتفرقة في المناطق المضيئة مع مساحات بيضاء، فترى من بعيد شكلاً واحداً نظيفاً وقوياً، ومن قريب تكتشف أنه كله حروف ونقاط. يتداخل عنوان تجريبي بارز بخط نقطي أو بكسلي مع الصورة وينزاح عنها ويتراكب فوقها، ولا يرافقه إلا أرقام أو ملاحظات صغيرة قليلة. الأساس أسود وأبيض ورمادي، مع لون إلى ثلاثة ألوان من الصورة على العنوان أو على طبقة النقاط، وملمس رقمي خفيف كالمسح الضوئي أو الضغط. العنصر صغير والفراغ واسع.",
+    "traits": [
+      "صورة من الحروف",
+      "تنقيط نصفي",
+      "عنوان نقطي تجريبي",
+      "أحادي مع لمسات لونية",
+      "عنصر صغير وفراغ واسع"
+    ],
+    "good": [
+      "عناصر ذات ظل جريء وتباين قوي: وجه جانبي، شخص يرفع يده، قطة، دراجة نارية",
+      "أشياء أو مبانٍ بسيطة الشكل: كرسي، برج، هاتف قديم",
+      "صور تريدها ملصقاً طباعياً تجريبياً أو غلاف أسطوانة أو تصميماً لفعالية"
+    ],
+    "poor": [
+      "صور باهتة رمادية قليلة التباين، لا تستطيع الحروف والنقاط أن تكوّن منها شكلاً واضحاً",
+      "صور يجب أن تحتفظ بألوانها وملمسها الحقيقي، إذ لا يبقى إلا الأسود والأبيض والرمادي ولون أو لونان",
+      "طلب رسم واقعي أو رسوم متجهية ناعمة أو ملصق عناوين عادي أو مؤثرات تشويش مبالغ فيها"
+    ]
+  }
+}

@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-159
-description: "Create Panel 159 raster artwork: Post-digital Bitmap Typography. Use when the user invokes xxd-panel-159 or requests this specific visual language."
+description: "XXD Panel 159｜Post-digital Bitmap Typography: rebuilds the most recognisable subject of a photo as a post-digital experimental typography poster — the image is made of characters, symbols, dot-matrix, halftone dots and low-resolution raster cells, dense in the shadows and sparse in the highlights, with a bitmap or pixel experimental title that interlocks and overlaps with the image. Black, white and grey plus 1–3 accent colours from the photo, a light scanned or compressed lo-fi texture without heavy glitch, and a small subject in very large whitespace. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-159 or asks for ASCII art, typographic halftone, dithered bitmap or experimental type poster from a photo."
 ---
 
 # XXD Panel 159

@@ -1,4 +1,4 @@
 interface:
   display_name: "XXD Panel 159"
-  short_description: "Post-digital Bitmap Typography"
-  default_prompt: "Use $xxd-panel-159 to transform my photograph following the complete canonical source brief."
+  short_description: "字符网点实验志：用字符、点阵和网点把照片主体重新拼出来，配一个咬合图像的位图标题"
+  default_prompt: "Use $xxd-panel-159 to turn my photo into Post-digital Bitmap Typography artwork."
